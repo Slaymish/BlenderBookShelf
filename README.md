@@ -18,6 +18,6 @@ To update asset to lastest version:
 
 
 
-## V0.1.0
+## V0.2.0
 
 ![LOro_](https://github.com/Slaymish/BlenderBookShelf/assets/21288505/6ca4b8c4-1f14-4815-9217-c554413ac80d)
