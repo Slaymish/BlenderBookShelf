@@ -4,6 +4,19 @@ Parametric bookshelf made in geo nodes!
 
 Add this blend file to your asset library to drag and drop into any scene
 
+Navigate to ur asset library in powershell/terminal
+
+```
+git clone https://github.com/Slaymish/BlenderBookShelf
+```
+
+To update asset to lastest version:
+```
+1. cd BlenderBookShelf
+2. git pull
+```
+
+
 
 ## V0.1.0
 
